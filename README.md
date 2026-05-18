@@ -40,7 +40,7 @@ utils/ → Helper classes
 
 ### Clone the Repository
 
-git clone [https://github.com/malikarshid01430-byte/KreedaPreranaScout.git](https://github.com/malikarshid01430-byte/KreedaPreranaScout.git)
+git clone [https://github.com/malikarshid01430-byte/KreedaPreranaScout.git]([https://github.com/malikarshid01430-byte/KreedaPreranaScout.git](https://github.com/swayam-sarit-168/KreedaPreranaScout.git))
 
 ---
 
@@ -98,7 +98,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Swayam Sarit
 
 ---
 
