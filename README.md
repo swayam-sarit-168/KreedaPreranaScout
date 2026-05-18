@@ -40,7 +40,7 @@ utils/ → Helper classes
 
 ### Clone the Repository
 
-git clone [https://github.com/malikarshid01430-byte/KreedaPreranaScout.git]([https://github.com/malikarshid01430-byte/KreedaPreranaScout.git](https://github.com/swayam-sarit-168/KreedaPreranaScout.git))
+git clone [[https://github.com/swayam-sarit-168/KreedaPreranaScout.git](https://github.com/swayam-sarit-168/KreedaPreranaScout.git)
 
 ---
 
